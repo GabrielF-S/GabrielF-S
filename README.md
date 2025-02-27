@@ -8,7 +8,7 @@
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/gabrielf_me)
 
 
-📝 Em nenhum dos meu antigos empregos cheguei a trabalhar com programação, mas em todos consegui contribuir de alguma forma com alguma inovação, sejam elas, um sistema para registro de visitantes, planilhas e automações para recebimento de demandas, criação e correção de templates de e-mails HTML.
+📝 Embora nenhum dos meu antigos empregos cheguei a trabalhar com programação, mas em todos consegui contribuir de alguma forma com alguma inovação, sejam elas, um sistema para registro de visitantes, planilhas e automações para recebimento de demandas, criação e correção de templates de e-mails HTML.
 Cheguei a receber mentoria em desenvolvimento Java afim de conseguir entregar projetos utilizando as mesmas tecnologias, métodos e padrões utilizados nos projetos reais de clientes. 
 Estou sempre estudando para ter mais conhecimento em tecnologias, padrões de projetos e novidades
 
