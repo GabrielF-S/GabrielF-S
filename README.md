@@ -1,3 +1,4 @@
+![Header](github-header-image.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9C%A8+Ol%C3%A1%2C+sou+Gabriel+Ferreira.)](https://git.io/typing-svg)
 
 📚 Tenho 28 anos, sou estudante de Ciências da Computação na Universidade Anhembi Morumbi - UAM e estou em busca de uma oportunidade profissional para mostrar meus conhecimentos e habilidades.
